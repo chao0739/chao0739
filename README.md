@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I’m **Chao**, a PhD student in Computer Science at **ENPC-IP Paris, France**.
 
-My research interests include **Green IT** and **energy-aware IT infrastructure**, with a focus on **end-to-end energy measurement and optimization for DNS and AI workloads**.
+My research interests include **Green IT** and **energy-aware IT infrastructure**, with a focus on **end-to-end electricity measurement for DNS and AI workloads**.
 
 I’m particularly interested in building **software-centric monitoring frameworks** for more sustainable digital services.
 
